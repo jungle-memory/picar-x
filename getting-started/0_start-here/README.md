@@ -25,10 +25,13 @@ Specifically, a Raspberry Pi 4 with Wifi and an SD card. They also come with a c
 
 The batteries power the Raspberry Pi and the Sunfounder robot sensor hat that comes with the PiCar-X kit. You can buy the batteries online. They need to be 18650 rechargeable lithium batteries, [like this example](https://amzn.to/36rkspL).
 
+![rechargeable-lithium-battery](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09PFVPS7J&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)
+
 The PiCar-X requries two batteries to run. Consider buying at least 4 batteries so that you can charge two while using two.
 
 You can get a [battery charger like this one](https://amzn.to/385Qf05).
 
+![lithium-battery-charger](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08XQSSRZK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)
 
 ## Build Car
 

@@ -17,9 +17,18 @@ The Raspberry Pi is the brains of the car and is sold separately. You can buy th
 [![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LYP7QH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
 
-These kits come with the essentials you need to work with the car. Specifically, a Raspberry Pi 4 with Wifi and an SD card. They also come with a charging cord and case. Although you will not need the power cord and case for the car, they are good to have. 
+These kits come with the essentials you need to work with the car. 
+
+Specifically, a Raspberry Pi 4 with Wifi and an SD card. They also come with a charging cord and case. Although you will not need the power cord and case for the car, they are good to have. 
 
 ## Get Batteries
+
+The batteries power the Raspberry Pi and the Sunfounder robot sensor hat that comes with the PiCar-X kit. You can buy the batteries online. They need to be 18650 rechargeable lithium batteries, [like this example](https://amzn.to/36rkspL).
+
+The PiCar-X requries two batteries to run. Consider buying at least 4 batteries so that you can charge two while using two.
+
+You can get a [battery charger like this one](https://amzn.to/385Qf05).
+
 
 ## Build Car
 

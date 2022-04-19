@@ -4,14 +4,14 @@ One of the things that makes the PiCar-X so extraordinary is that the setup is a
 
 Below you will find a roadmap to getting started with their instructions and a few tips from us based on our experience. 
 
-##Get Car
+## Get Car
 
-##Get Raspberry Pi
+## Get Raspberry Pi
 
-##Get Batteries
+## Get Batteries
 
-##Build Car
+## Build Car
 
-##Install Software
+## Install Software
 
-##Test Car
+## Test Car

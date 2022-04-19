@@ -14,6 +14,7 @@ The Raspberry Pi is the brains of the car and is sold separately. You can buy th
 
 [![raspberry-pi-kit-1](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09W7P91SP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7)
 
+[![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LYP7QH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
 These kits come with the essentials you need to work with the car. Specifically, a Raspberry Pi 4 with Wifi and an SD card. They also come with a charging cord and case. Although you will not need the power cord and case for the car, they are good to have. 
 

@@ -1,7 +1,7 @@
 
 # Terminal Commands For Video
 
-After recording a video with the PiCar-X, you might want to transfer the video from the car to a different computer. You also may want to convert the file format from .h264 to mp4.
+After recording a video with the PiCar-X, you might want to transfer the video from the car to a different computer. You also may want to convert the file format from `.h264` to `.mp4`.
 
 Raspberry Pi and Python make it very easy to export and convert files.
 
@@ -21,6 +21,13 @@ Example:
 scp pi@111.111.1.11:picar-x/example/my_video.h264 ./Desktop
 ```
 
+You can find the IP address for your Raspberry Pi by entering the following command from your computer. 
+
+```
+ping raspberrypi.local
+```
+
+The Pi and your computer need to be on the same WiFi network for this to work.
 
 ### Convert File from h264 to mp4
 

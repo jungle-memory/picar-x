@@ -6,20 +6,19 @@ Below you will find a roadmap to getting started with their instructions and a f
 
 ## Get Car
 
-Sunfounder sells the [PiCar-X AI Car kit](https://amzn.to/3uKSQp1) on Amazon. The kit comes with everything you need except the Raspberry Pi, batteries, and battery charger. It comes with all the parts for the car and even a few spare parts. Plus, the kit has a screw driver and allen wrench.
+Sunfounder sells the [PiCar-X AI Car kit](https://amzn.to/3uKSQp1) on Amazon. 
+
+The kit comes with everything you need except the Raspberry Pi, batteries, and battery charger. It comes with all the parts for the car and even a few spare parts. Plus, the kit has a screw driver and allen wrench.
 
 ## Get Raspberry Pi
 
-The Raspberry Pi is the brains of the car and is sold separately. You can buy them on Amazon too. Look for Rasperry Pi 4 starter kits, like [this one](https://amzn.to/3L1feA7) and [this one](https://amzn.to/3jP7NQL). 
+The Raspberry Pi is sold separately. You can buy it on Amazon too. Look for Rasperry Pi 4 starter kits, like [this one](https://amzn.to/3L1feA7) and [this one](https://amzn.to/3jP7NQL). 
 
-[![raspberry-pi-kit-1](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09W7P91SP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7)
+[![raspberry-pi-kit-1](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09W7P91SP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7) [![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LYP7QH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
-[![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LYP7QH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
+These kits come with the essentials you need to work with the car. Specifically, a Raspberry Pi 4 with Wifi and an SD card. 
 
-
-These kits come with the essentials you need to work with the car. 
-
-Specifically, a Raspberry Pi 4 with Wifi and an SD card. They also come with a charging cord and case. Although you will not need the power cord and case for the car, they are good to have. 
+They also come with a charging cord and case. Although you will not need the power cord and case for the car, they are good to have. 
 
 ## Get Batteries
 
@@ -39,7 +38,9 @@ Sunfounder makes it really easy to assemble the car with their amazing instructi
 
 The [instructions are online](https://docs.sunfounder.com/projects/picar-x/en/latest/list_and_assembly.html) and the kit comes a written copy.
 
-They walk you through how to connect the parts and wire the car. You do things like add the Raspberry Pi, robot HAT, battery pack, motors, servos, wheels, sensors, and camera to the car's frame. You also wire the car. If it is your first time building something like this, expect it to take a couple of hours. 
+They walk you through how to connect the parts and wire the car. 
+
+You do things like add the Raspberry Pi, robot HAT, battery pack, motors, servos, wheels, sensors, and camera to the car's frame. You also wire the car. If it is your first time building something like this, expect it to take a couple of hours. 
 
 When assembling the car, pay close attention to detail. We encourage you to disassemble and reassemble the parts if you need to or if you just want to learn more about the parts.
 
@@ -50,5 +51,11 @@ Here are a few tips.
 - when you test the car, if the rear-wheel motors run in the wrong direction, take them off and switch sides
 
 ## Install Software
+
+Sunfounder has excellent instructions for installing the software. You have two options.
+
+You can install [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html). It is Sunfounder's software for helping beginners program on a Raspberry Pi and offers two environments. You can use the Ezblock Graphical User Interface environment and a command-line Python environment.
+
+Instead, you can install [the Python environment](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html). It is Sunfounder's Python setup for programming on a Raspberry Pi with the robot HAT and PiCar-X.
 
 ## Test Car

@@ -35,7 +35,11 @@ You can get a [battery charger like this one](https://amzn.to/385Qf05).
 
 ## Build Car
 
-The kit comes with detailed written instructions on how to build the car. Sunfounder makes it really easy to assemble the car with their amazing instructions. The [instructions are also online](https://docs.sunfounder.com/projects/picar-x/en/latest/list_and_assembly.html).
+Sunfounder makes it really easy to assemble the car with their amazing instructions. 
+
+The [instructions are online](https://docs.sunfounder.com/projects/picar-x/en/latest/list_and_assembly.html) and the kit comes a written copy.
+
+They walk you through how to connect the parts and wire the car. You do things like add the Raspberry Pi, robot HAT, battery pack, motors, servos, wheels, sensors, and camera to the car's frame. You also wire the car. If it is your first time building something like this, expect it to take a couple of hours. 
 
 When assembling the car, pay close attention to detail. We encourage you to disassemble and reassemble the parts if you need to or if you just want to learn more about the parts.
 

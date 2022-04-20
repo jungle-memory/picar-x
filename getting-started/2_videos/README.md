@@ -97,7 +97,7 @@ if __name__ == "__main__":
         px.forward(0)
 ```
 
-## Move From Pi
+## Transfer Video From Pi
 
 After recording video with your car, you may want to move the video from your car to another computer. 
 

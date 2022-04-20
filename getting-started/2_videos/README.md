@@ -99,7 +99,7 @@ if __name__ == "__main__":
 
 ## Move From Pi
 
-After recording video with your car, you may want to move it video from your car to another computer. 
+After recording video with your car, you may want to move the video from your car to another computer. 
 
 Here is how to move a video file from the Raspberry Pi to another computer.
 
@@ -124,4 +124,26 @@ ping raspberrypi.local
 The Raspberry Pi and destination computer need to be on the same WiFi network for this to work.
 
 ## Convert h264 To mp4
+
+After recording video with your car, you may want to convert the video from `.h264` to `.mp4`. 
+
+
+On the computer where you want to convert the file, install `ffmpeg`.
+
+```python
+pip3 install ffmpeg-python
+```
+
+Run the following terminal command.
+
+```python
+ffmpeg -r 30 -i [YOUR_VIDEO_PATH] [NEW_VIDEO_PATH]
+```
+
+Example:
+
+```python
 ffmpeg -r 30 -i my_video.h264 foo.mp4
+```
+
+

@@ -48,14 +48,28 @@ Here are a few tips.
 
 - put one battery ribbon under each battery so that you can use the ribbon to remove the battery
 - the camera FFC cable needs to twist so that it can make the proper connections on both ends
+- try to align the servo motors so that they are pointing in correct angle to start
+- remember to zero the servos using P11 before installing and running the code
 - when you test the car, if the rear-wheel motors run in the wrong direction, take them off and switch sides
 
 ## Install Software
 
-Sunfounder has excellent instructions for installing the software. You have two options.
+Sunfounder has excellent instructions for installing the software. 
+
+You have two options.
 
 You can install [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html). It is Sunfounder's software for helping beginners program on a Raspberry Pi and offers two environments. You can use the Ezblock Graphical User Interface environment and a command-line Python environment.
 
 Instead, you can install [the Python environment](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html). It is Sunfounder's Python setup for programming on a Raspberry Pi with the robot HAT and PiCar-X.
 
+Regardless, to install the software, you need to turn on the Raspberry Pi and access its operating system as explained in the instructions.
+
 ## Test Car
+
+Test the car by running the Sunfounder code examples for either [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) or [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html).
+
+You need to access the Raspberry Pi operating system to access the code examples as explained in the Sunfounder instructions.
+
+Start with the `calibration` example to make sure the motors work and spin in the right direction. Also check the servos to make sure they work.
+
+Finally, have fun running the other examples!

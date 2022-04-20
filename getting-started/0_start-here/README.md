@@ -39,10 +39,11 @@ The kit comes with detailed written instructions on how to build the car. Sunfou
 
 When assembling the car, pay close attention to detail. We encourage you to disassemble and reassemble the parts if you need to or if you just want to learn more about the parts.
 
-Here are three tips. 
-1. Put one battery ribbon under each battery so that you can use the ribbon to remove the battery
-2. The camera FFC cable needs to twist so that it can make the proper connections on both ends
-3. When you test the car, if the rear-wheel motors run in the wrong direction, take them off and switch sides
+Here are a few tips. 
+
+- put one battery ribbon under each battery so that you can use the ribbon to remove the battery
+- the camera FFC cable needs to twist so that it can make the proper connections on both ends
+- when you test the car, if the rear-wheel motors run in the wrong direction, take them off and switch sides
 
 ## Install Software
 

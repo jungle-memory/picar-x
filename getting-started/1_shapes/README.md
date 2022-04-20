@@ -6,15 +6,15 @@ Sunfounder makes it easy to learn how to program the car to move.
 
 Starting with the code examples in the [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) and [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html), you can use their code that makes the car drive to understand how you can program the car to drive.
 
+## Starting With Examples
+
+Starting with this example is a great way to learn how to program the PiCar-X to move.
+
 Start with [the `move` example](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_move.html).
 
 Here is a video showing it.
 
 ###### https://www.youtube.com/embed/rK63L7JGiEs
-
-## Starting With Examples
-
-Starting with this example is a great way to learn how to program the PiCar-X to move.
 
 To help you get started and to inspire you to create, this project folder contains additional code examples for programming the PiCar-X to drive in various shapes or patterns.
 

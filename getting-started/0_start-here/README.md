@@ -35,6 +35,15 @@ You can get a [battery charger like this one](https://amzn.to/385Qf05).
 
 ## Build Car
 
+The kit comes with detailed written instructions on how to build the car. Sunfounder makes it really easy to assemble the car with their amazing instructions. The [instructions are also online](https://docs.sunfounder.com/projects/picar-x/en/latest/list_and_assembly.html).
+
+When assembling the car, pay close attention to detail. We encourage you to disassemble and reassemble the parts if you need to or if you just want to learn more about the parts.
+
+Here are three tips. 
+1. Put one battery ribbon under each battery so that you can use the ribbon to remove the battery
+2. The camera FFC cable needs to twist so that it can make the proper connections on both ends
+3. When you test the car, if the rear-wheel motors run in the wrong direction, take them off and switch sides
+
 ## Install Software
 
 ## Test Car

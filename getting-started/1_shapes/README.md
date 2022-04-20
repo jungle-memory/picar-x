@@ -24,7 +24,7 @@ Feel free to use and modify the code below.
 
 Post videos on Instagram and YouTube and tag us or hashtag #junglememory!
 
-## Circle
+## Circle Smooth
 
 ```python
 from picarx import Picarx

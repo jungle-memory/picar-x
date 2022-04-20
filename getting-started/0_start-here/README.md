@@ -1,6 +1,8 @@
 # Start Here
 
-One of the things that makes the PiCar-X so extraordinary is that the setup is as fun and educational as working with the finished product. Sunfounder has made it really easy to follow their instructions and get started. 
+One of the things that makes the PiCar-X so extraordinary is that the setup is as fun and educational as working with the finished product. 
+
+Sunfounder has made it really easy to follow their instructions and get started. 
 
 Below you will find a roadmap to getting started with their instructions and a few tips from us based on our experience. 
 
@@ -8,7 +10,9 @@ Below you will find a roadmap to getting started with their instructions and a f
 
 Sunfounder sells the [PiCar-X AI Car kit](https://amzn.to/3uKSQp1) on Amazon. 
 
-The kit comes with everything you need except the Raspberry Pi, batteries, and battery charger. It comes with all the parts for the car and even a few spare parts. Plus, the kit has a screw driver and allen wrench.
+The kit comes with everything you need except the Raspberry Pi, batteries, and battery charger. 
+
+It comes with all the parts for the car and even a few spare parts. Plus, the kit has a screw driver and allen wrench.
 
 ## Get Raspberry Pi
 

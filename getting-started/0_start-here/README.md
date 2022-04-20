@@ -10,6 +10,8 @@ Below you will find a roadmap to getting started with their instructions and a f
 
 Sunfounder sells the [PiCar-X AI Car kit](https://amzn.to/3uKSQp1) on Amazon. 
 
+[![picar-x](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08F46Q24N&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3vvtGKj)
+
 The kit comes with everything you need except the Raspberry Pi, batteries, and battery charger. 
 
 It comes with all the parts for the car and even a few spare parts. Plus, the kit has a screw driver and allen wrench.

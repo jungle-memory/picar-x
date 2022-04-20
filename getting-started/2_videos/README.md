@@ -98,7 +98,30 @@ if __name__ == "__main__":
 ```
 
 ## Move From Pi
-scp pi@192.168.1.35:picar-x/example/my_video.h264 ./Desktop
+
+After recording video with your car, you may want to move it video from your car to another computer. 
+
+Here is how to move a video file from the Raspberry Pi to another computer.
+
+On the destination computer, run the following terminal command.
+
+```python
+scp pi@[YOUR_PI_IPADDRESS]:[YOUR_VIDEO_PATH].h264 [VIDEO_DESTINATION_DIR_PATH]
+```
+
+Example:
+
+```python
+scp pi@111.111.1.11:picar-x/example/my_video.h264 ./Desktop
+```
+
+Find the IP address for your Raspberry Pi by running the following command in your terminal on the destination computer.
+
+```python
+ping raspberrypi.local
+```
+
+The Raspberry Pi and destination computer need to be on the same WiFi network for this to work.
 
 ## Convert h264 To mp4
 ffmpeg -r 30 -i my_video.h264 foo.mp4

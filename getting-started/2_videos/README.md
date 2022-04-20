@@ -6,11 +6,12 @@ Save them to your car, export them to your computer, stream them, process them. 
 
 Starting with the code examples in the [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) and [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html), you can use their code that makes the car drive to understand how you can program the car to drive.
 
-Start with the [`computer vision`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_view_pic.html), [`color detection`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_color_detection.html), and [`face detection`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_face_detection.html) examples.
 
 ## Starting With Examples
 
 Starting with the examples is a great way to learn how to program the PiCar-X to work with videos.
+
+Start with the [`computer vision`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_view_pic.html), [`color detection`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_color_detection.html), and [`face detection`](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_face_detection.html) examples.
 
 To help you get started and to inspire you to create, this project folder contains additional code examples for programming the PiCar-X to work with video.
 

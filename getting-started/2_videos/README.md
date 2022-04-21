@@ -2,7 +2,7 @@
 
 Take videos with the PiCar-X. 
 
-Save them to your car, export them to your computer, stream them, process them. The options seem endless..
+Save them to your car, export them to your computer, stream them, process them.
 
 Starting with the code examples in the [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) and [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html), you can use their code that makes the car drive to understand how you can program the car to drive.
 

@@ -10,7 +10,7 @@ The grayscale sensor can detect black, white, and shades of gray. You can use it
 
 [![grayscale-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VY254N8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
-## Starting With Examples
+## Sunfounder Examples
 
 A great way to learn how to program the PiCar-X is to use the Sunfounder code examples in the [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) and [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html) documents.
 
@@ -21,6 +21,8 @@ For the ultrasonic sensor, start with [the `obstacle avoidance` example](https:/
 For the grayscale sensor, start with [the `line tracking` example](https://docs.sunfounder.com/projects/picar-x/en/latest/python/python_line_track.html). 
 
 Read the code to understand how it works. Then run it!
+
+## Jungle Memory Examples
 
 To help you get started and to inspire you to create your own scripts for the car, this project folder contains additional code examples for programming the PiCar-X to drive in various shapes or patterns.
 

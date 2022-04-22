@@ -21,8 +21,7 @@ It comes with all the parts for the car and even a few spare parts. Plus, the ki
 The Raspberry Pi is sold separately. You can buy it on Amazon too. Look for Rasperry Pi 4 starter kits, like [this one](https://amzn.to/3L1feA7) and [this one](https://amzn.to/3jP7NQL). 
 
 
-[![raspberry-pi-kit-1](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JG09DCK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7) [![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VY254N8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
-
+[![raspberry-pi-kit](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09W7P91SP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3vwII2i) [![raspberry-pi-kit-2](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LYP7QH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3vzejAl)
 These kits come with the essentials you need to work with the car. Specifically, a Raspberry Pi 4 with Wifi and an SD card. 
 
 They also come with a charging cord and case. Although you do not need the power cord and case for the car, they are good to have. 

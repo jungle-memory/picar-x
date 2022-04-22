@@ -2,9 +2,13 @@
 
 The PiCar-X has an ultrasonic sensor and a grayscale sensor.
 
-The ultrasonic sensor detects distance and the grayscale sensor can detect black, white, and shades of gray.
+The ultrasonic sensor detects distance.
 
-[![ultrasonic-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JG09DCK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7) [![grayscale-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VY254N8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
+[![ultrasonic-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JG09DCK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7)
+
+The grayscale sensor can detect black, white, and shades of gray.
+
+[![grayscale-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VY254N8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
 Starting with the code examples in the [Ezblock](https://docs.sunfounder.com/projects/picar-x/en/latest/ezblock/play_with_ezblock.html) and [Python](https://docs.sunfounder.com/projects/picar-x/en/latest/python/play_with_python.html), you can use their sensor code to understand how you can program the car to use the sensors.
 

@@ -24,7 +24,7 @@ Read the code to understand how it works. Then run it!
 
 ## Jungle Memory Examples
 
-To help you get started and to inspire you to create your own scripts for the car, this project folder contains additional code examples for programming the PiCar-X to drive in various shapes or patterns.
+To help you get program the car using the ultrasonic and grayscale sensors, this project folder contains additional code examples to help you think about how to program the car. 
 
 When reading and writing the code, think about the interaction of the sensor data with what the motors and servers are doing. Also consider what limitations the sensors have, like how far and wide the ultrasonic sensors can detect signals and the sensitivity of the grayscale sensor.
 

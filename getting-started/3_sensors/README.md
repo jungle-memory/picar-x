@@ -2,11 +2,11 @@
 
 The PiCar-X has an ultrasonic sensor and a grayscale sensor.
 
-The ultrasonic sensor detects distance.
+The ultrasonic sensor detects distance from objects within its range. You can use it with PiCar-X to avoid crashing into objects or know when something approaches the car.
 
 [![ultrasonic-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JG09DCK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3L1feA7)
 
-The grayscale sensor can detect black, white, and shades of gray.
+The grayscale sensor can detect black, white, and shades of gray. You can use it with PiCar-X to make the car follow a black or white line.
 
 [![grayscale-sensor-raspberry-pi](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VY254N8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://amzn.to/3jP7NQL)
 
